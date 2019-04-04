@@ -3,6 +3,7 @@ This project is the source for http://godoc.org/
 [![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](http://godoc.org/github.com/golang/gddo)
 [![Build
 Status](https://travis-ci.org/golang/gddo.svg?branch=master)](https://travis-ci.org/golang/gddo)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdchenk%2Fgddo.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdchenk%2Fgddo?ref=badge_shield)
 
 The code in this project is designed to be used by godoc.org. Send mail to
 golang-dev@googlegroups.com if you want to discuss other uses of the code.
@@ -40,3 +41,7 @@ https://github.com/golang/gddo/wiki/Development-Environment-Setup.
 
 More documentation about this project is available on the
 [wiki](https://github.com/golang/gddo/wiki).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdchenk%2Fgddo.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdchenk%2Fgddo?ref=badge_large)
